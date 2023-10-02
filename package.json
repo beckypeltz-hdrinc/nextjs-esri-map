@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "esri-loader": "^3.7.0",
+    "loader-utils": "3.2.1",
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {
     "eslint": "latest",
